@@ -1,0 +1,6331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="Project Atuin Base Build: alaak:22-03-2025 00:39:28">
+    <name>22-03-2025 00:39:28</name>
+    <Placemark id="30">
+      <name>PostFalls</name>
+      <description>AQI: 61 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 61 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-116.9384,47.721299999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="123">
+      <name>Whitehorse</name>
+      <description>AQI: 20 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 20 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 10 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-135.06909999999999,60.7029,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="326">
+      <name>PrinceGeorge</name>
+      <description>AQI: 21 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 21 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 13 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.74939999999999,53.916899999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="348">
+      <name>Richmond</name>
+      <description>AQI: 76 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 15 (Good)
+NO2 AQI: 17 (Good)
+PM2.5 AQI: 76 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-123.13330000000001,49.166699999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="512">
+      <name>Anacortes</name>
+      <description>AQI: 97 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 25 (Good)
+NO2 AQI: 10 (Good)
+PM2.5 AQI: 97 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.6292,48.4878,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="529">
+      <name>Parksville</name>
+      <description>AQI: 61 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 35 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 61 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-124.312,49.314999999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="554">
+      <name>BrooklynCenter</name>
+      <description>AQI: 51 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 51 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.316199999999995,45.068100000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="561">
+      <name>Canmore</name>
+      <description>AQI: 46 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 23 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 46 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-115.359,51.088999999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="568">
+      <name>Centralia</name>
+      <description>AQI: 60 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 16 (Good)
+NO2 AQI: 15 (Good)
+PM2.5 AQI: 60 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.9696,46.722299999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="590">
+      <name>Nelson</name>
+      <description>AQI: 14 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 12 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 14 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-117.2833,49.5,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="691">
+      <name>Cambridge</name>
+      <description>AQI: 30 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 14 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.228300000000004,45.561199999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="832">
+      <name>Ramsey</name>
+      <description>AQI: 51 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 51 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.449399999999997,45.261699999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="867">
+      <name>Pasco</name>
+      <description>AQI: 37 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 37 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-119.1305,46.250599999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="990">
+      <name>LakeOswego</name>
+      <description>AQI: 74 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 7 (Good)
+PM2.5 AQI: 74 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.7004,45.4129,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="1146">
+      <name>Gresham</name>
+      <description>AQI: 52 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 16 (Good)
+NO2 AQI: 11 (Good)
+PM2.5 AQI: 52 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.4413,45.502099999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="1264">
+      <name>LakeForestPark</name>
+      <description>AQI: 52 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 23 (Good)
+NO2 AQI: 12 (Good)
+PM2.5 AQI: 52 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.2864,47.757399999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="1366">
+      <name>Parkland</name>
+      <description>AQI: 51 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 13 (Good)
+NO2 AQI: 12 (Good)
+PM2.5 AQI: 51 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.4376,47.1417,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="1380">
+      <name>Plymouth</name>
+      <description>AQI: 53 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 7 (Good)
+PM2.5 AQI: 53 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.461699999999993,45.022500000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="1401">
+      <name>Strathmore</name>
+      <description>AQI: 37 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 15 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 37 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-113.4003,51.037799999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="1409">
+      <name>UniversityPlace</name>
+      <description>AQI: 44 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 44 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.5461,47.214700000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="1592">
+      <name>Bremerton</name>
+      <description>AQI: 41 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 27 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 41 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.71210000000001,47.543599999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="1594">
+      <name>Brooks</name>
+      <description>AQI: 60 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 26 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 60 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-111.8989,50.5642,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="1732">
+      <name>Anoka</name>
+      <description>AQI: 51 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 40 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 51 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.389300000000006,45.209899999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="1742">
+      <name>Yakima</name>
+      <description>AQI: 31 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 27 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-120.5496,46.592300000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="1754">
+      <name>Winnipeg</name>
+      <description>AQI: 54 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 23 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 54 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-97.1464,49.884399999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="2120">
+      <name>GrandePrairie</name>
+      <description>AQI: 34 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 34 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 27 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-118.79470000000001,55.1708,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="2151">
+      <name>Cornelius</name>
+      <description>AQI: 40 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 7 (Good)
+PM2.5 AQI: 40 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-123.051,45.518799999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="2175">
+      <name>Pendleton</name>
+      <description>AQI: 30 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 22 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 30 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-118.8201,45.675699999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="2212">
+      <name>Graham</name>
+      <description>AQI: 51 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 41 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 51 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.28270000000001,47.032200000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="2264">
+      <name>LittleFalls</name>
+      <description>AQI: 73 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 14 (Good)
+NO2 AQI: 21 (Good)
+PM2.5 AQI: 73 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-94.358599999999996,45.986199999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="2281">
+      <name>Wilsonville</name>
+      <description>AQI: 62 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 11 (Good)
+NO2 AQI: 16 (Good)
+PM2.5 AQI: 62 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.7702,45.310899999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="2294">
+      <name>Penticton</name>
+      <description>AQI: 28 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 20 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-119.5886,49.491100000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="2316">
+      <name>PortAlberni</name>
+      <description>AQI: 34 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 34 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 14 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-124.80500000000001,49.233899999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="2320">
+      <name>Sammamish</name>
+      <description>AQI: 34 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 34 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.0416,47.601700000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="2424">
+      <name>Moscow</name>
+      <description>AQI: 30 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 19 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 30 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-116.9986,46.730800000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="2494">
+      <name>MountlakeTerrace</name>
+      <description>AQI: 49 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 25 (Good)
+NO2 AQI: 11 (Good)
+PM2.5 AQI: 49 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.3077,47.792099999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="2568">
+      <name>Enumclaw</name>
+      <description>AQI: 29 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 29 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 23 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-121.9897,47.201799999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="2690">
+      <name>PowellRiver</name>
+      <description>AQI: 28 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 12 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-124.5247,49.835299999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="2704">
+      <name>OregonCity</name>
+      <description>AQI: 48 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 12 (Good)
+NO2 AQI: 13 (Good)
+PM2.5 AQI: 48 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.5924,45.341799999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="2788">
+      <name>LinoLakes</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.082999999999998,45.167900000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="2810">
+      <name>Ellensburg</name>
+      <description>AQI: 58 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 40 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 58 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-120.5475,46.999899999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="2888">
+      <name>Longview</name>
+      <description>AQI: 46 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 37 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 46 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.96299999999999,46.146099999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="2950">
+      <name>Beaumont</name>
+      <description>AQI: 68 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 34 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 68 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-113.4147,53.357199999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="3010">
+      <name>Terrace</name>
+      <description>AQI: 24 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 11 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-128.59970000000001,54.516399999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="3182">
+      <name>Brainerd</name>
+      <description>AQI: 34 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 34 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-94.198300000000003,46.3553,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="3294">
+      <name>Shoreline</name>
+      <description>AQI: 55 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 25 (Good)
+NO2 AQI: 11 (Good)
+PM2.5 AQI: 55 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.3426,47.756399999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="3325">
+      <name>OakGrove</name>
+      <description>AQI: 70 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 70 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.6349,45.415599999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="3327">
+      <name>OakGrove</name>
+      <description>AQI: 70 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 70 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.326400000000007,45.340899999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="3350">
+      <name>MapleValley</name>
+      <description>AQI: 38 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 38 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.0368,47.365900000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="3416">
+      <name>Alexandria</name>
+      <description>AQI: 56 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 56 (Moderate)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 35 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-95.3767,45.877600000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="3507">
+      <name>CoonRapids</name>
+      <description>AQI: 54 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 10 (Good)
+PM2.5 AQI: 54 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.309399999999997,45.1755,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="3588">
+      <name>Billings</name>
+      <description>AQI: 40 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 40 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-108.5526,45.789099999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="3638">
+      <name>Roseville</name>
+      <description>AQI: 51 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 51 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.154499999999999,45.015500000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="3675">
+      <name>Damascus</name>
+      <description>AQI: 77 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 77 (Moderate)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 59 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.4436,45.423299999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="3682">
+      <name>Dickinson</name>
+      <description>AQI: 26 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 22 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 26 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-102.7925,46.891800000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="3764">
+      <name>OakHarbor</name>
+      <description>AQI: 33 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 33 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.63330000000001,48.296399999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="3804">
+      <name>Camas</name>
+      <description>AQI: 27 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 27 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 17 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.43040000000001,45.600499999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="3893">
+      <name>Renton</name>
+      <description>AQI: 33 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 33 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.1918,47.478400000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="3913">
+      <name>Hanover</name>
+      <description>AQI: 58 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 21 (Good)
+NO2 AQI: 14 (Good)
+PM2.5 AQI: 58 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-96.849199999999996,49.443300000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="4000">
+      <name>WhiteBearLake</name>
+      <description>AQI: 51 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 51 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.015000000000001,45.065600000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="4001">
+      <name>WhiteCenter</name>
+      <description>AQI: 52 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 27 (Good)
+NO2 AQI: 7 (Good)
+PM2.5 AQI: 52 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.3479,47.508600000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="4059">
+      <name>SalmonArm</name>
+      <description>AQI: 26 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 26 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 23 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-119.2722,50.702199999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="4081">
+      <name>Shoreview</name>
+      <description>AQI: 46 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 8 (Good)
+PM2.5 AQI: 46 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.135800000000003,45.084200000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="4265">
+      <name>Stillwater</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 39 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-92.831299999999999,45.057299999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="4269">
+      <name>SwiftCurrent</name>
+      <description>AQI: 32 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 16 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-107.79389999999999,50.2881,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="4312">
+      <name>MercerIsland</name>
+      <description>AQI: 56 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 18 (Good)
+NO2 AQI: 15 (Good)
+PM2.5 AQI: 56 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.232,47.566099999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="4338">
+      <name>Bemidji</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 38 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-94.8797,47.482799999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="4384">
+      <name>Keizer</name>
+      <description>AQI: 53 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 21 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 53 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-123.0243,45.002800000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="4421">
+      <name>Lynden</name>
+      <description>AQI: 52 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 19 (Good)
+NO2 AQI: 13 (Good)
+PM2.5 AQI: 52 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.4545,48.950200000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="4455">
+      <name>Hillsboro</name>
+      <description>AQI: 38 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 8 (Good)
+PM2.5 AQI: 38 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.93600000000001,45.527299999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="4500">
+      <name>Vernon</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 46 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-119.27200000000001,50.267000000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="4563">
+      <name>NewHope</name>
+      <description>AQI: 53 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 53 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.386899999999997,45.037500000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="4631">
+      <name>Lynnwood</name>
+      <description>AQI: 91 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 23 (Good)
+NO2 AQI: 11 (Good)
+PM2.5 AQI: 91 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.30329999999999,47.828400000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="4681">
+      <name>Richland</name>
+      <description>AQI: 33 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 15 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-119.29389999999999,46.282400000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="4753">
+      <name>Moorhead</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 43 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-96.746099999999998,46.8673,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="4756">
+      <name>MosesLake</name>
+      <description>AQI: 32 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 15 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-119.27589999999999,47.127899999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="4821">
+      <name>BrooklynPark</name>
+      <description>AQI: 53 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 40 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 53 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.350499999999997,45.111199999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="4827">
+      <name>CampbellRiver</name>
+      <description>AQI: 33 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 19 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-125.2475,50.0244,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="5008">
+      <name>PrinceRupert</name>
+      <description>AQI: 31 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 6 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-130.3271,54.312199999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="5080">
+      <name>Abbotsford</name>
+      <description>AQI: 27 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 27 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 23 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.3167,49.049999999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="5107">
+      <name>Portland</name>
+      <description>AQI: 48 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 48 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 36 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.65000000000001,45.537100000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="5152">
+      <name>Marysville</name>
+      <description>AQI: 44 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 40 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 44 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.1561,48.0809,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="5240">
+      <name>Ferndale</name>
+      <description>AQI: 55 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 34 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 55 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.5894,48.852600000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="5244">
+      <name>ForestGrove</name>
+      <description>AQI: 63 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 63 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-123.1097,45.524299999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="5296">
+      <name>Burlington</name>
+      <description>AQI: 51 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 22 (Good)
+NO2 AQI: 9 (Good)
+PM2.5 AQI: 51 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.32980000000001,48.467599999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="5349">
+      <name>Cheney</name>
+      <description>AQI: 32 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 28 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-117.57899999999999,47.490099999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="5357">
+      <name>ColumbiaHeights</name>
+      <description>AQI: 52 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 42 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 52 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.247200000000007,45.048400000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="5501">
+      <name>Newcastle</name>
+      <description>AQI: 48 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 9 (Good)
+NO2 AQI: 14 (Good)
+PM2.5 AQI: 48 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.16330000000001,47.5304,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="5515">
+      <name>Mukilteo</name>
+      <description>AQI: 109 (Unhealthy for Sensitive Groups)
+CO AQI: 2 (Good)
+Ozone AQI: 21 (Good)
+NO2 AQI: 12 (Good)
+PM2.5 AQI: 109 (Unhealthy for Sensitive Groups)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.3035,47.909599999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="5635">
+      <name>Camrose</name>
+      <description>AQI: 67 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 67 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-112.83329999999999,53.0167,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="5706">
+      <name>Crystal</name>
+      <description>AQI: 53 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 53 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.359899999999996,45.037700000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="5756">
+      <name>Aberdeen</name>
+      <description>AQI: 39 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 39 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 27 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-98.468599999999995,45.4649,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="5758">
+      <name>Aberdeen</name>
+      <description>AQI: 39 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 39 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 27 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-123.8094,46.975700000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="5787">
+      <name>Everett</name>
+      <description>AQI: 67 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 17 (Good)
+NO2 AQI: 16 (Good)
+PM2.5 AQI: 67 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.1669,47.952500000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="5797">
+      <name>Kelowna</name>
+      <description>AQI: 31 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 16 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-119.4956,49.888100000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="5798">
+      <name>Kelso</name>
+      <description>AQI: 39 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 22 (Good)
+NO2 AQI: 7 (Good)
+PM2.5 AQI: 39 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.8909,46.123600000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="5849">
+      <name>Mission</name>
+      <description>AQI: 154 (Unhealthy)
+CO AQI: 3 (Good)
+Ozone AQI: 15 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 154 (Unhealthy)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.3112,49.133699999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="6202">
+      <name>Kirkland</name>
+      <description>AQI: 56 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 9 (Good)
+PM2.5 AQI: 56 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.20569999999999,47.697000000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="6498">
+      <name>FergusFalls</name>
+      <description>AQI: 33 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 33 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-96.075800000000001,46.285400000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="6608">
+      <name>WestFargo</name>
+      <description>AQI: 46 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 46 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-96.905699999999996,46.857300000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="6745">
+      <name>Fairbanks</name>
+      <description>AQI: 53 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 17 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 53 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-147.6533,64.835300000000004,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="6750">
+      <name>Covington</name>
+      <description>AQI: 79 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 79 (Moderate)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 34 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.1045,47.366700000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="6839">
+      <name>Bellevue</name>
+      <description>AQI: 40 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 34 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 40 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.15349999999999,47.595100000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="6855">
+      <name>Sunnyside</name>
+      <description>AQI: 34 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 34 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 17 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-120.00579999999999,46.3157,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="6926">
+      <name>Brandon</name>
+      <description>AQI: 64 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 64 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-99.950000000000003,49.848300000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="6959">
+      <name>Spanaway</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 8 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.4233,47.097900000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="6964">
+      <name>AlderwoodManor</name>
+      <description>AQI: 62 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 21 (Good)
+NO2 AQI: 10 (Good)
+PM2.5 AQI: 62 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.2672,47.814599999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="6979">
+      <name>Hibbing</name>
+      <description>AQI: 54 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 54 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-92.948599999999999,47.398000000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="7153">
+      <name>Wetaskiwin</name>
+      <description>AQI: 41 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 41 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 9 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-113.37690000000001,52.9694,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="7422">
+      <name>Juneau</name>
+      <description>AQI: 28 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 25 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 28 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-134.1739,58.454599999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="7615">
+      <name>Fridley</name>
+      <description>AQI: 51 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 51 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.259500000000003,45.084099999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="7669">
+      <name>Cochrane</name>
+      <description>AQI: 38 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 38 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 11 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-114.467,51.189,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="7717">
+      <name>Burien</name>
+      <description>AQI: 51 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 23 (Good)
+NO2 AQI: 13 (Good)
+PM2.5 AQI: 51 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.3394,47.476199999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="7734">
+      <name>BonneyLake</name>
+      <description>AQI: 57 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 12 (Good)
+PM2.5 AQI: 57 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.17,47.179099999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="7737">
+      <name>Bothell</name>
+      <description>AQI: 58 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 22 (Good)
+NO2 AQI: 13 (Good)
+PM2.5 AQI: 58 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.20440000000001,47.773499999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="7813">
+      <name>Auburn</name>
+      <description>AQI: 57 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 12 (Good)
+NO2 AQI: 7 (Good)
+PM2.5 AQI: 57 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.21080000000001,47.303899999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="7845">
+      <name>Belgrade</name>
+      <description>AQI: 101 (Unhealthy for Sensitive Groups)
+CO AQI: 1 (Good)
+Ozone AQI: 36 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 101 (Unhealthy for Sensitive Groups)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-111.17359999999999,45.7789,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="7941">
+      <name>Champlin</name>
+      <description>AQI: 51 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 51 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.390299999999996,45.170200000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="7964">
+      <name>GreatFalls</name>
+      <description>AQI: 39 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 27 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 39 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-111.2996,47.502200000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="7992">
+      <name>Kalispell</name>
+      <description>AQI: 33 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 28 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-114.3274,48.215299999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="8047">
+      <name>Olympia</name>
+      <description>AQI: 40 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 40 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.8959,47.041699999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="8066">
+      <name>Bellingham</name>
+      <description>AQI: 50 (Good)
+CO AQI: 2 (Good)
+Ozone AQI: 26 (Good)
+NO2 AQI: 7 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.46899999999999,48.754800000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="8189">
+      <name>ForestLake</name>
+      <description>AQI: 48 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 40 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 48 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-92.958200000000005,45.253599999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="8205">
+      <name>Leduc</name>
+      <description>AQI: 46 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 46 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-113.5492,53.259399999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="8295">
+      <name>Seattle</name>
+      <description>AQI: 36 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 36 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.3244,47.621099999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="8346">
+      <name>Milwaukie</name>
+      <description>AQI: 52 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 10 (Good)
+NO2 AQI: 14 (Good)
+PM2.5 AQI: 52 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.6219,45.444499999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="8439">
+      <name>Hermiston</name>
+      <description>AQI: 33 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 33 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-119.2854,45.832599999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="8571">
+      <name>SylvanLake</name>
+      <description>AQI: 39 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 39 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 10 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-114.0964,52.308300000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="8653">
+      <name>DawsonCreek</name>
+      <description>AQI: 62 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 62 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-120.23560000000001,55.760599999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="8861">
+      <name>Mandan</name>
+      <description>AQI: 47 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 17 (Good)
+NO2 AQI: 8 (Good)
+PM2.5 AQI: 47 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-100.887,46.829000000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="8941">
+      <name>Woodinville</name>
+      <description>AQI: 59 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 22 (Good)
+NO2 AQI: 9 (Good)
+PM2.5 AQI: 59 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.1477,47.756999999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="8948">
+      <name>Puyallup</name>
+      <description>AQI: 54 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 54 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.2902,47.179299999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="8977">
+      <name>Nanaimo</name>
+      <description>AQI: 38 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 38 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 23 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-123.93640000000001,49.164200000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="9026">
+      <name>Hugo</name>
+      <description>AQI: 51 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 38 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 51 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-92.958799999999997,45.167099999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="9250">
+      <name>Calgary</name>
+      <description>AQI: 47 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 13 (Good)
+NO2 AQI: 8 (Good)
+PM2.5 AQI: 47 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-114.0667,51.049999999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="9374">
+      <name>Sherwood</name>
+      <description>AQI: 61 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 29 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 61 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.84269999999999,45.359400000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="9409">
+      <name>Hayden</name>
+      <description>AQI: 58 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 58 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-116.804,47.768000000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="9463">
+      <name>Fairview</name>
+      <description>AQI: 75 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 18 (Good)
+NO2 AQI: 20 (Good)
+PM2.5 AQI: 75 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.43899999999999,45.546900000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="9597">
+      <name>GrandForks</name>
+      <description>AQI: 45 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 45 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-97.088399999999993,47.921399999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="9718">
+      <name>Courtenay</name>
+      <description>AQI: 47 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 36 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 47 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-124.9944,49.687800000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="9779">
+      <name>Willmar</name>
+      <description>AQI: 46 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 46 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-95.056899999999999,45.121600000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="9876">
+      <name>Kenmore</name>
+      <description>AQI: 61 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 16 (Good)
+NO2 AQI: 15 (Good)
+PM2.5 AQI: 61 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.24890000000001,47.751600000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="9914">
+      <name>PrinceAlbert</name>
+      <description>AQI: 34 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 34 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 9 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-105.75,53.200000000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="9941">
+      <name>CedarMill</name>
+      <description>AQI: 52 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 8 (Good)
+NO2 AQI: 15 (Good)
+PM2.5 AQI: 52 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.8006,45.535499999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="9986">
+      <name>Lethbridge</name>
+      <description>AQI: 38 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 38 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 13 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-112.83280000000001,49.694200000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="9994">
+      <name>HamLake</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 41 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.203900000000004,45.2545,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="10080">
+      <name>NorthBattleford</name>
+      <description>AQI: 33 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 6 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-108.28610000000001,52.7575,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="10089">
+      <name>MillCreek</name>
+      <description>AQI: 35 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 35 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.2037,47.863100000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="10096">
+      <name>Monticello</name>
+      <description>AQI: 52 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 41 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 52 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.799599999999998,45.299100000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="10156">
+      <name>Kennewick</name>
+      <description>AQI: 37 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 37 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-119.17319999999999,46.197800000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="10162">
+      <name>Anchorage</name>
+      <description>AQI: 69 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 26 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 69 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-149.10910000000001,61.150799999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="10282">
+      <name>Pullman</name>
+      <description>AQI: 30 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 23 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-117.16800000000001,46.733600000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="10306">
+      <name>Midland</name>
+      <description>AQI: 36 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 21 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 36 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.41200000000001,47.173400000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="10309">
+      <name>Minot</name>
+      <description>AQI: 49 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 49 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-101.27800000000001,48.237499999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="10415">
+      <name>Helena</name>
+      <description>AQI: 23 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 16 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 23 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-112.0202,46.596499999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="10434">
+      <name>Kenora</name>
+      <description>AQI: 54 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 34 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 54 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-94.4833,49.7667,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="10708">
+      <name>MoundsView</name>
+      <description>AQI: 53 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 9 (Good)
+PM2.5 AQI: 53 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.207599999999999,45.107100000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="10791">
+      <name>SpruceGrove</name>
+      <description>AQI: 41 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 10 (Good)
+NO2 AQI: 13 (Good)
+PM2.5 AQI: 41 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-113.9008,53.545000000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="10797">
+      <name>VadnaisHeights</name>
+      <description>AQI: 52 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 52 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.074799999999996,45.057000000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="10805">
+      <name>Duncan</name>
+      <description>AQI: 29 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 29 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 18 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-123.7079,48.778700000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="10817">
+      <name>Missoula</name>
+      <description>AQI: 34 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 13 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 34 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-114.0214,46.875100000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="10840">
+      <name>Issaquah</name>
+      <description>AQI: 64 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 16 (Good)
+NO2 AQI: 14 (Good)
+PM2.5 AQI: 64 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.0471,47.543900000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="11037">
+      <name>NewBrighton</name>
+      <description>AQI: 46 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 9 (Good)
+PM2.5 AQI: 46 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.206000000000003,45.065800000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="11045">
+      <name>ElkRiver</name>
+      <description>AQI: 43 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 11 (Good)
+PM2.5 AQI: 43 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.566999999999993,45.331400000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="11129">
+      <name>Buffalo</name>
+      <description>AQI: 39 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 38 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 39 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.864400000000003,45.179400000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="11247">
+      <name>Beaverton</name>
+      <description>AQI: 114 (Unhealthy for Sensitive Groups)
+CO AQI: 2 (Good)
+Ozone AQI: 18 (Good)
+NO2 AQI: 10 (Good)
+PM2.5 AQI: 114 (Unhealthy for Sensitive Groups)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.8168,45.477899999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="11412">
+      <name>Lacombe</name>
+      <description>AQI: 39 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 39 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 10 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-113.73690000000001,52.468299999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="11431">
+      <name>Superior</name>
+      <description>AQI: 32 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 32 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-92.082300000000004,46.694099999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="11479">
+      <name>Thompson</name>
+      <description>AQI: 45 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 45 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-97.8553,55.743299999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="11581">
+      <name>Monroe</name>
+      <description>AQI: 65 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 22 (Good)
+NO2 AQI: 14 (Good)
+PM2.5 AQI: 65 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-121.9851,47.859499999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="11591">
+      <name>MountVernon</name>
+      <description>AQI: 67 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 42 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 67 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.3115,48.420299999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="11863">
+      <name>MapleGrove</name>
+      <description>AQI: 53 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 53 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.462599999999995,45.108899999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="11950">
+      <name>DesMoines</name>
+      <description>AQI: 59 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 18 (Good)
+NO2 AQI: 10 (Good)
+PM2.5 AQI: 59 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.3156,47.391399999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="11964">
+      <name>Wenatchee</name>
+      <description>AQI: 29 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 29 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 11 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-120.3295,47.436,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="11984">
+      <name>Tumwater</name>
+      <description>AQI: 31 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 31 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 20 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.9175,46.989100000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="12031">
+      <name>Regina</name>
+      <description>AQI: 42 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 42 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-104.6067,50.454700000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="12097">
+      <name>Summit</name>
+      <description>AQI: 101 (Unhealthy for Sensitive Groups)
+CO AQI: 3 (Good)
+Ozone AQI: 12 (Good)
+NO2 AQI: 26 (Good)
+PM2.5 AQI: 101 (Unhealthy for Sensitive Groups)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.36279999999999,47.169400000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="12143">
+      <name>MooseJaw</name>
+      <description>AQI: 35 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 25 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 35 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-105.5519,50.393300000000004,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="12315">
+      <name>PortAngeles</name>
+      <description>AQI: 29 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 29 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 16 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-123.45650000000001,48.114100000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="12426">
+      <name>Shelton</name>
+      <description>AQI: 63 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 46 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 63 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-123.1121,47.218600000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="12518">
+      <name>Chilliwack</name>
+      <description>AQI: 45 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 18 (Good)
+NO2 AQI: 8 (Good)
+PM2.5 AQI: 45 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-121.9509,49.157699999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="12602">
+      <name>Springfield</name>
+      <description>AQI: 45 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 45 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 31 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-96.693899999999999,49.929200000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="12618">
+      <name>Saskatoon</name>
+      <description>AQI: 32 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 32 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-106.6833,52.133299999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="12642">
+      <name>Okotoks</name>
+      <description>AQI: 56 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 20 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 56 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-113.97499999999999,50.725000000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="12670">
+      <name>MedicineHat</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-110.6775,50.041699999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="12736">
+      <name>MarthaLake</name>
+      <description>AQI: 90 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 22 (Good)
+NO2 AQI: 12 (Good)
+PM2.5 AQI: 90 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.23269999999999,47.847900000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="12749">
+      <name>Gladstone</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 19 (Good)
+NO2 AQI: 11 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.5934,45.386400000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="12855">
+      <name>Duluth</name>
+      <description>AQI: 51 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 37 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 51 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-92.139300000000006,46.775599999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="12858">
+      <name>EastRentonHighlands</name>
+      <description>AQI: 64 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 13 (Good)
+NO2 AQI: 17 (Good)
+PM2.5 AQI: 64 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.08540000000001,47.471800000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="12860">
+      <name>Edgewood</name>
+      <description>AQI: 49 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 34 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 49 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.28319999999999,47.230899999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="12861">
+      <name>Edmonton</name>
+      <description>AQI: 49 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 12 (Good)
+NO2 AQI: 11 (Good)
+PM2.5 AQI: 49 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-113.49030000000001,53.534399999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="12880">
+      <name>Spokane</name>
+      <description>AQI: 67 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 67 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-117.43300000000001,47.667099999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="12972">
+      <name>Lacey</name>
+      <description>AQI: 30 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 21 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.7933,47.046199999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="13134">
+      <name>Woodburn</name>
+      <description>AQI: 37 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 15 (Good)
+NO2 AQI: 10 (Good)
+PM2.5 AQI: 37 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.8603,45.147199999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="13177">
+      <name>WilliamsLake</name>
+      <description>AQI: 34 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 34 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 5 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.1383,52.129399999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="13196">
+      <name>Vancouver</name>
+      <description>AQI: 49 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 20 (Good)
+NO2 AQI: 10 (Good)
+PM2.5 AQI: 49 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-123.09999999999999,49.25,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="13197">
+      <name>Vancouver</name>
+      <description>AQI: 49 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 20 (Good)
+NO2 AQI: 10 (Good)
+PM2.5 AQI: 49 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.5967,45.636600000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="13229">
+      <name>Ridgefield</name>
+      <description>AQI: 74 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 18 (Good)
+NO2 AQI: 19 (Good)
+PM2.5 AQI: 74 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.7051,45.811399999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="13283">
+      <name>Troutdale</name>
+      <description>AQI: 55 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 19 (Good)
+NO2 AQI: 8 (Good)
+PM2.5 AQI: 55 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.3955,45.537199999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="13478">
+      <name>Edmonds</name>
+      <description>AQI: 39 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 26 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 39 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.3533,47.811500000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="13503">
+      <name>Fargo</name>
+      <description>AQI: 41 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 41 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 39 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-96.8292,46.865099999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="13570">
+      <name>Tigard</name>
+      <description>AQI: 47 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 21 (Good)
+NO2 AQI: 10 (Good)
+PM2.5 AQI: 47 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.78449999999999,45.423699999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="13764">
+      <name>Aloha</name>
+      <description>AQI: 33 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 19 (Good)
+NO2 AQI: 9 (Good)
+PM2.5 AQI: 33 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.8725,45.491999999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="13881">
+      <name>Tualatin</name>
+      <description>AQI: 76 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 22 (Good)
+NO2 AQI: 7 (Good)
+PM2.5 AQI: 76 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.7748,45.377200000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="13926">
+      <name>EastBethel</name>
+      <description>AQI: 53 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 34 (Good)
+NO2 AQI: 8 (Good)
+PM2.5 AQI: 53 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.203800000000001,45.355699999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="14082">
+      <name>SalmonCreek</name>
+      <description>AQI: 42 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 16 (Good)
+NO2 AQI: 10 (Good)
+PM2.5 AQI: 42 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.6632,45.709899999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="14101">
+      <name>RedDeer</name>
+      <description>AQI: 32 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 9 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-113.8111,52.268099999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="14181">
+      <name>Steinbach</name>
+      <description>AQI: 52 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 26 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 52 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-96.683899999999994,49.525799999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="14275">
+      <name>Yorkton</name>
+      <description>AQI: 25 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 22 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 25 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-102.4628,51.213900000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="14355">
+      <name>Jamestown</name>
+      <description>AQI: 77 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 8 (Good)
+NO2 AQI: 9 (Good)
+PM2.5 AQI: 77 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-98.693700000000007,46.906300000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="14409">
+      <name>Kent</name>
+      <description>AQI: 58 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 25 (Good)
+NO2 AQI: 11 (Good)
+PM2.5 AQI: 58 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.2128,47.3887,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="14430">
+      <name>Kamloops</name>
+      <description>AQI: 58 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 40 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 58 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-120.3408,50.676099999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="14642">
+      <name>Tukwila</name>
+      <description>AQI: 54 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 20 (Good)
+NO2 AQI: 14 (Good)
+PM2.5 AQI: 54 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.2728,47.475000000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="14661">
+      <name>Tacoma</name>
+      <description>AQI: 53 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 22 (Good)
+NO2 AQI: 13 (Good)
+PM2.5 AQI: 53 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.45310000000001,47.243099999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="14702">
+      <name>Victoria</name>
+      <description>AQI: 26 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 25 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 26 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-123.3647,48.4283,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="14716">
+      <name>Washougal</name>
+      <description>AQI: 47 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 29 (Good)
+NO2 AQI: 6 (Good)
+PM2.5 AQI: 47 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.3451,45.582500000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="14737">
+      <name>Milton</name>
+      <description>AQI: 79 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 7 (Good)
+NO2 AQI: 18 (Good)
+PM2.5 AQI: 79 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.31529999999999,47.252400000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="14855">
+      <name>Bethany</name>
+      <description>AQI: 67 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 29 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 67 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.837,45.561399999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="14962">
+      <name>Newberg</name>
+      <description>AQI: 32 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 19 (Good)
+NO2 AQI: 8 (Good)
+PM2.5 AQI: 32 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.9601,45.307499999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="14968">
+      <name>Andover</name>
+      <description>AQI: 45 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 45 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 42 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.326499999999996,45.257100000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="14971">
+      <name>Cloquet</name>
+      <description>AQI: 49 (Good)
+CO AQI: 2 (Good)
+Ozone AQI: 21 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 49 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-92.4923,46.722099999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="14972">
+      <name>College</name>
+      <description>AQI: 61 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 22 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 61 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-147.82159999999999,64.869399999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="14995">
+      <name>Lewiston</name>
+      <description>AQI: 38 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 38 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-116.99330000000001,46.3934,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="15052">
+      <name>FederalWay</name>
+      <description>AQI: 55 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 9 (Good)
+PM2.5 AQI: 55 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.33580000000001,47.309100000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="15172">
+      <name>Cranbrook</name>
+      <description>AQI: 44 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 44 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-115.7667,49.509700000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="15227">
+      <name>SaukRapids</name>
+      <description>AQI: 45 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 29 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 45 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-94.153800000000004,45.598100000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="15230">
+      <name>Airdrie</name>
+      <description>AQI: 34 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 21 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 34 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-114.0144,51.291699999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="15258">
+      <name>ElkPlain</name>
+      <description>AQI: 59 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 25 (Good)
+NO2 AQI: 11 (Good)
+PM2.5 AQI: 59 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.3663,47.042499999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="15322">
+      <name>GrandRapids</name>
+      <description>AQI: 75 (Moderate)
+CO AQI: 3 (Good)
+Ozone AQI: 7 (Good)
+NO2 AQI: 19 (Good)
+PM2.5 AQI: 75 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.532700000000006,47.238,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="15324">
+      <name>Grandview</name>
+      <description>AQI: 70 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 9 (Good)
+PM2.5 AQI: 70 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-119.9092,46.244300000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="15495">
+      <name>WallaWalla</name>
+      <description>AQI: 28 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 21 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-118.3368,46.067100000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="15500">
+      <name>Yellowknife</name>
+      <description>AQI: 24 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 24 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 5 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-114.4053,62.4709,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="15540">
+      <name>SouthHill</name>
+      <description>AQI: 57 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 17 (Good)
+NO2 AQI: 15 (Good)
+PM2.5 AQI: 57 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.28530000000001,47.119799999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="15621">
+      <name>Robbinsdale</name>
+      <description>AQI: 53 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 40 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 53 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.333200000000005,45.0261,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="15697">
+      <name>Blaine</name>
+      <description>AQI: 51 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 30 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 51 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.207700000000003,45.169600000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="15740">
+      <name>WhiteRock</name>
+      <description>AQI: 71 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 22 (Good)
+NO2 AQI: 12 (Good)
+PM2.5 AQI: 71 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.80280000000001,49.024999999999999,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="15784">
+      <name>Quesnel</name>
+      <description>AQI: 23 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 23 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 14 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.4927,52.978400000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="15789">
+      <name>Redmond</name>
+      <description>AQI: 62 (Moderate)
+CO AQI: 2 (Good)
+Ozone AQI: 17 (Good)
+NO2 AQI: 15 (Good)
+PM2.5 AQI: 62 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.1169,47.676299999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="15890">
+      <name>Bismarck</name>
+      <description>AQI: 40 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 32 (Good)
+NO2 AQI: 2 (Good)
+PM2.5 AQI: 40 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-100.76940000000001,46.814300000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="15905">
+      <name>Canby</name>
+      <description>AQI: 36 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 16 (Good)
+NO2 AQI: 10 (Good)
+PM2.5 AQI: 36 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.6867,45.2652,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="15990">
+      <name>Arlington</name>
+      <description>AQI: 64 (Moderate)
+CO AQI: 1 (Good)
+Ozone AQI: 19 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 64 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.1442,48.170099999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16033">
+      <name>WestLinn</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 20 (Good)
+NO2 AQI: 11 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.6399,45.366999999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16052">
+      <name>Lloydminster</name>
+      <description>AQI: 38 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 38 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-110.005,53.278300000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16053">
+      <name>Lloydminster</name>
+      <description>AQI: 38 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 38 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-110.035,53.280700000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16213">
+      <name>Bozeman</name>
+      <description>AQI: 25 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 25 (Good)
+NO2 AQI: 3 (Good)
+PM2.5 AQI: 18 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-111.05580000000001,45.683300000000003,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16245">
+      <name>Williston</name>
+      <description>AQI: 46 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 46 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-103.6364,48.181399999999996,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16277">
+      <name>Sartell</name>
+      <description>AQI: 36 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 36 (Good)
+NO2 AQI: 5 (Good)
+PM2.5 AQI: 31 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-94.220600000000005,45.6188,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16304">
+      <name>Lakewood</name>
+      <description>AQI: 98 (Moderate)
+CO AQI: 3 (Good)
+Ozone AQI: 19 (Good)
+NO2 AQI: 22 (Good)
+PM2.5 AQI: 98 (Moderate)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-122.5299,47.162799999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16361">
+      <name>Butte</name>
+      <description>AQI: 46 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 27 (Good)
+NO2 AQI: 0 (Good)
+PM2.5 AQI: 46 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-112.6571,45.902000000000001,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16416">
+      <name>Rogers</name>
+      <description>AQI: 49 (Good)
+CO AQI: 2 (Good)
+Ozone AQI: 33 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 49 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-93.578299999999999,45.186500000000002,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16448">
+      <name>NorthBranch</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 28 (Good)
+NO2 AQI: 4 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-92.960099999999997,45.5137,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16485">
+      <name>Sidney</name>
+      <description>AQI: 50 (Good)
+CO AQI: 1 (Good)
+Ozone AQI: 26 (Good)
+NO2 AQI: 8 (Good)
+PM2.5 AQI: 50 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-123.3986,48.650599999999997,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+    <Placemark id="16586">
+      <name>LaGrande</name>
+      <description>AQI: 29 (Good)
+CO AQI: 0 (Good)
+Ozone AQI: 29 (Good)
+NO2 AQI: 1 (Good)
+PM2.5 AQI: 29 (Good)</description>
+      <Style>
+        <IconStyle>
+          <color>64ffffff</color>
+          <scale>1</scale>
+          <Icon>
+            <href>http://maps.google.com/mapfiles/kml/shapes/triangle.png</href>
+          </Icon>
+        </IconStyle>
+        <LabelStyle>
+          <color>ffffffff</color>
+          <scale>1</scale>
+        </LabelStyle>
+      </Style>
+      <Point id="0">
+        <coordinates>-118.0865,45.324199999999998,0</coordinates>
+        <altitudeMode xmlns="http://www.google.com/kml/ext/2.2">clampToSeaFloor</altitudeMode>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
